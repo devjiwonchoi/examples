@@ -1,4 +1,3 @@
-import fetch from 'node-fetch'
 import { token } from './_constants'
 
 export function tokenizeString(string) {

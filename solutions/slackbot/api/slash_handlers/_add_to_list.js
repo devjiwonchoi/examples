@@ -1,4 +1,3 @@
-import fetch from 'node-fetch'
 import { redis } from '../_constants'
 
 export async function addToList(res, commandArray) {
